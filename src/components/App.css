@@ -1,0 +1,17 @@
+.App {
+	text-align: center;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+	margin-top: 50vh;
+}
+
+img {
+	clip-path: circle(60px at center);
+}
+
+h2 {
+	text-transform: capitalize;
+}
